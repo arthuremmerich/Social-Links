@@ -70,7 +70,7 @@ body * {
 #switch {
     position: relative;
     width: 64px;
-
+    cursor: pointer;
     margin: 4px auto;
 }
 
