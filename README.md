@@ -7,7 +7,7 @@
 
 Projeto construído no Discovery da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://maykbrito.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://arthuremmerich.github.io/projeto/)
 
 
 ## 🛠 Tecnologias
