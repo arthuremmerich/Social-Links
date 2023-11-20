@@ -1,7 +1,7 @@
 # projeto
 # NLW eSports
 
-![preview](./.github/preview.png)
+![preview](./assets.avatar.png)
 
 > Trilha Explorer
 
