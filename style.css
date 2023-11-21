@@ -191,6 +191,16 @@ footer {
     }
 }
 
+@media (max-width: 700px) {
+    ul li {
+        display: flex;
+        justify-content: center;
+    }
+    ul li a {
+       width: 350px;
+    }
+}
+
 /* animation */
 @keyframes slide-in {
     from{

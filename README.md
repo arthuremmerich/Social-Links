@@ -1,7 +1,6 @@
-# projeto
-# NLW eSports
+# Social-Links
 
-![preview](./assets/foto.jpg)
+<img src="./assets/foto.jpg" width="200px" height="200px">
 
 > Trilha Explorer
 
