@@ -6,7 +6,7 @@
 
 Projeto construído no Discovery da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://arthuremmerich.github.io/projeto/)
+[🔗 Clique aqui para acessar](https://arthuremmerich.github.io/Social-Links/)
 
 
 ## 🛠 Tecnologias
